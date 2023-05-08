@@ -1,0 +1,12 @@
+ul li::after {
+    content: ' - ';
+    background: red;
+    color: white;
+    display: block;
+}
+p{
+    font-size: 24px;
+}
+::placeholder{
+    color: red;
+}
