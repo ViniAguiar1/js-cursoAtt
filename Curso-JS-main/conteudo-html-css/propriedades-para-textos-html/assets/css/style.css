@@ -1,4 +1,14 @@
 p {
-    color: red;
-    background-color: yellow;
+    /* color: red;
+    background-color: yellow; */ font-style: 20px;
+    /* font-style: italic;
+    font-weight: bold;
+    direction: ltr;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    line-height: 25px; */
+    text-align: center;
+    /* text-decoration: underline; */
+    text-shadow: -1px 1px 0 red;
+    text-transform:capitalize;
 }
